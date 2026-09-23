@@ -1,0 +1,15 @@
+# Временные файлы сборки
+build/
+__pycache__/
+*.pyc
+build_out.txt
+build_err.txt
+llama_raw.png
+
+# Личные файлы (не публикуем)
+файл/
+
+# Системные файлы
+Thumbs.db
+desktop.ini
+.DS_Store
